@@ -1,3 +1,3 @@
 cd src
 javac HeapOOM.java
-java -Xms20m -Xmx20m HeapOOM
+java -Xms20m -Xmx20m -XX:+HeapDumpOnOutOfMemoryError HeapOOM
