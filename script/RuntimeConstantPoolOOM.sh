@@ -1,3 +1,3 @@
 cd src
 javac RuntimeConstantPoolOOM.java
-java -Xss228k RuntimeConstantPoolOOM
+java -XX:PermSize=6M -XX:MaxPermSize=6m RuntimeConstantPoolOOM
