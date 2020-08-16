@@ -1,3 +1,5 @@
+package chap_01;
+
 // 该实验无法再jdk8上运行
 // jdk7 不支持lambda
 // openJdk7上也做不出来这个效果，我认为是被编译器给优化了

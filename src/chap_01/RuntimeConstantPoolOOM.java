@@ -1,4 +1,4 @@
-// 两台机子都没有做出效果
+package chap_01;// 两台机子都没有做出效果
 // 书中已经说了jdk7没有效果，没看到，头疼
 import java.util.HashSet;
 import java.util.Set;
